@@ -177,6 +177,8 @@
   <ItemGroup>
     <Content Include="abc.ico" />
     <Content Include="Controls\vnConvert.dll" />
+    <Content Include="data.xml" />
+    <Content Include="data_NoiCau.xml" />
     <None Include="Resources\Question.png" />
     <None Include="Resources\pre.png" />
     <None Include="Resources\next.png" />

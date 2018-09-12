@@ -1,0 +1,1250 @@
+<?xml version="1.0"?>
+<ArrayOfBaiHoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaiHoc>
+    <Id>7</Id>
+    <tieude>7</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bé vẽ bê</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>7</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>8</Id>
+    <tieude>8</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>ve ve ve, hè về</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>8</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>9</Id>
+    <tieude>9</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bò bê có bó cỏ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>9</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>10</Id>
+    <tieude>10</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bé có vở vẽ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>10</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>11</Id>
+    <tieude>11</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bé vẽ cô, bé vẽ cờ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>11</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>12</Id>
+    <tieude>12</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bé hà có vở ô li</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>12</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>13</Id>
+    <tieude>13</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bò bê có cỏ, bò bê no nê</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>13</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>14</Id>
+    <tieude>14</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>dì na đi đò, bé và mẹ đi bộ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>14</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>15</Id>
+    <tieude>15</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bố thả cá mè, bé thả cá cờ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>15</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>16</Id>
+    <tieude>16</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>cò bố mò cá,</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>cò mẹ tha cá về tổ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>16</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>17</Id>
+    <tieude>17</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>thứ tư, bé hà thi vẽ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>17</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>18</Id>
+    <tieude>18</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>xe ô tô chở cá về thị xã</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>18</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>19</Id>
+    <tieude>19</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bé tô cho rõ chữ và số</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>19</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>20</Id>
+    <tieude>20</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>chị kha kẻ vở cho bé hà và bé lê</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>20</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>21</Id>
+    <tieude>21</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>xe ô tô chở khỉ và sư tử về sở thú</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>21</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>22</Id>
+    <tieude>22</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Nhà dì na ở phố, nhà dì có chó xù</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>22</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>23</Id>
+    <tieude>23</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>nhà bà có tủ gỗ, ghế gỗ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>23</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>24</Id>
+    <tieude>24</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>chú tư ghé qua nhà, cho bé giỏ cá</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>24</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>25</Id>
+    <tieude>25</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>nghỉ hè, chị kha ra nhà bé nga</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>25</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>26</Id>
+    <tieude>26</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>bé bị ho, mẹ cho bé ra y tế xã</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>26</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>27</Id>
+    <tieude>27</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>quê bé hà có nghề xẻ gỗ,</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>phố bé nga có nghề giã giò</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>27</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>28</Id>
+    <tieude>28</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bố mẹ cho bé và chị Kha đi nghỉ hè ở Sa Pa.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>28</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>29</Id>
+    <tieude>29</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bé Hà nhổ cỏ, chị Kha tỉa lá.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>29</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>30</Id>
+    <tieude>30</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Mẹ đi chợ mua khế, mía, dừa, thị cho bé.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>30</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>31</Id>
+    <tieude>31</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Gió lùa kẽ lá</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Lá khẽ đu đưa</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Gió qua cửa sổ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Bé vừa ngủ trưa.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>31</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>32</Id>
+    <tieude>32</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Chú Bói Cá nghĩ gì thế?</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Chú nghĩ về bữa trưa.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>32</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>33</Id>
+    <tieude>33</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bé trai, bé gài đi chơi phố với bố mẹ</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>33</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>34</Id>
+    <tieude>34</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Dì Na vừa gửi thư về. Cả nhà vui quá.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>34</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>35</Id>
+    <tieude>35</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Buổi tối, chị Kha rủ bé chơi trò đố chữ.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>35</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>36</Id>
+    <tieude>36</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Giờ ra chơi, bé trai thi chạy, bé gái thi nhảy dây.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>36</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>37</Id>
+    <tieude>37</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Gió từ tay mẹ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Ru bé ngủ say</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Thay cho gió trời</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Giữa trưa oi ả.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>37</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>38</Id>
+    <tieude>38</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Suối chảy rì rào</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Gió reo lao xao</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Bé ngồi thổi sáo.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>38</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>39</Id>
+    <tieude>39</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Chào Mào có áo màu nâu</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Cứ mùa ổi chín từ đâu bay về.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>39</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>40</Id>
+    <tieude>40</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Cây bưởi, cây táo nhà bà đều sai trĩu quả.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>40</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>41</Id>
+    <tieude>41</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Tu hú kêu, báo hiệu mùa vải thiều đã về</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>41</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>42</Id>
+    <tieude>42</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Buổi trưa, Cừu chạy theo mẹ ra bờ suối.</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Nó thấy bầy hươu nai đã ở đấy rồi.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>42</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>43</Id>
+    <tieude>43</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Nhà Sáo Sậu ở sau dãy núi. Sáo ưa nơi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>khô ráo, có nhiều châu chấu, cào cào.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>43</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>44</Id>
+    <tieude>44</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Gấu mẹ dạy con chơi đàn. Còn Thỏ mẹ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>thì dạy con nhảy múa</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>44</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>45</Id>
+    <tieude>45</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bé chơi thân với bạn Lê. Bố bạn Lê là thợ lặn.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>45</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>46</Id>
+    <tieude>46</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Sau cơn mưa, cả nhà cá bơi đi bơi lại bận rộn.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>46</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>47</Id>
+    <tieude>47</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Nhà Dế Mèn ở gần bãi cỏ non. Còn nhà Sên</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>thì ở ngay trên tàu lá chuối.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>47</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>48</Id>
+    <tieude>48</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Ủn à ủn ỉn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Chín chú lợn con</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Ăn đã no tròn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Cả đàn đi ngủ.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>48</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>49</Id>
+    <tieude>49</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Sau cơn bão, Kiến đen lại xây nhà. Cả đàn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>kiên nhẫn chờ lá khô về tổ mới.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>49</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>50</Id>
+    <tieude>50</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Mùa thu, bầu trời như cao hơn. Trên giàn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>thiên lí, lũ chuồn chuồn ngẫn ngơ bay lượn.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>50</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>51</Id>
+    <tieude>51</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Gà mẹ dẫn đàn gà con ra bãi cò. Gà con</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>vừa chơi vừa chờ mẹ rẽ cỏ, bới giun.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>51</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>52</Id>
+    <tieude>52</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Sóng nối sóng</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Mãi không thôi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Sóng sóng sóng</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Đến chân trời.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>52</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>53</Id>
+    <tieude>53</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Vầng trăng hiện lên sau rặng dừa cuối bãi.</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Sóng vỗ bờ rì rào, rì rào</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>53</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>54</Id>
+    <tieude>54</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Không sơn mà đỏ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Không gõ mà kêu</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Không khều mà rụng.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>54</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>55</Id>
+    <tieude>55</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Dù ai nói ngả nói ngiêng</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Lòng ta vẫn vững như kiềng ba chân.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>55</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>56</Id>
+    <tieude>56</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Nắng đã lên. Lúa trên nương đã chín.</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Trai gái bản mường cùng vui vào hội.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>56</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>57</Id>
+    <tieude>57</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Không có chân có cánh</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Sao gọi là con sông?</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Không có là có cành</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Sao gọi là ngọn gió?</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>57</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>58</Id>
+    <tieude>58</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Cái gì cao lớn lênh khênh</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Đứng mà không tựa, ngã kềnh ngay ra?</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>58</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>59</Id>
+    <tieude>59</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Trên trời mây trắng như bông</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Ở dưới cánh đồng bông trắng như mây</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Mấy cô má đỏ hây hây</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Đội bông như thể đội mây về làng.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>59</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>60</Id>
+    <tieude>60</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Mưa tháng bảy gãy cành trám</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Nắng tháng tám rám trái bòng.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>60</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>61</Id>
+    <tieude>61</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Con suối sau nhà rì rầm chảy. Đàn dê</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>cắm cúi gặm cỏ bên sườn  đồi.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>61</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>62</Id>
+    <tieude>62</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Vàng mơ như trái chín</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Nhành giẻ treo nơi nào</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Gió về đưa hương lạ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Đường tới trường xôn xao</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>62</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>63</Id>
+    <tieude>63</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Con cò mà đi ăn đêm</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Đậu phải cành mềm lộn cổ xuống ao.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>63</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>64</Id>
+    <tieude>64</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Khi đi em hỏi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Khi về em chào</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Miệng em chúm chím</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Mẹ có yêu không nào?</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>64</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>65</Id>
+    <tieude>65</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Ban ngày, Sẻ mải đi kiếm ăn cho cả nhà.</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Tối đến, Sẻ mới có thời gian âu yếm đàn con.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>65</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>66</Id>
+    <tieude>66</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Nhứng bông cải nở rộ nhuộm vàng cả</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>cánh đồng. Trên trời, bướm bay lượn từng đàn.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>66</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>67</Id>
+    <tieude>67</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Trong vòm lá mới chồi non</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Chùm cam bà giữ vẫn còn đung đưa</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Quả ngon dành tận cuối mùa</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Chờ con, phần cháu bà chưa trảy vào.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>67</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>68</Id>
+    <tieude>68</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Ai trồng cây</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Người đó có tiếng hát</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Trên vòm cây</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Chim hót đùa mê say.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>68</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>69</Id>
+    <tieude>69</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Cái mỏ tí hon</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Cái chân bé xíu</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Lông vàng mát dịu</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Mắt đen sáng ngời</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>5</dong>
+        <noidung>Ơi chú gà ơi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>6</dong>
+        <noidung>Ta yêu chú lắm.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>69</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>70</Id>
+    <tieude>70</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Hỏi cây bao nhiêu tuổi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Cây không nhớ tháng năm</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Cây chỉ dang tay lá</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Che tròn một bóng râm.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>70</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>71</Id>
+    <tieude>71</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Chim tránh rét bay về phương nam. Cả đàn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>đã thấm mệt nhưng vẫn cố bay theo hàng.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>71</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>72</Id>
+    <tieude>72</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Bay cao cao vút</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Chim biến mất rồi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Chỉ còn tiếng hót</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Làm xanh da trời.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>72</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>73</Id>
+    <tieude>73</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Con gì có cánh</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Mà lại biết bơi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Ngày xuống ao chơi</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Đêm về đẻ trứng?</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>73</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>74</Id>
+    <tieude>74</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Con mèo mà trèo cây cau</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Hỏi thăm chú Chuột đi đâu vắng nhà</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Chú Chuột đi chợ đường xa</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Mua mắm, mua muối giỗ cha con Mèo.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>74</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>75</Id>
+    <tieude>75</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Một đàn cò trắng phau phau</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Ăn no tắm mát rủ nhau đi nằm.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>75</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>76</Id>
+    <tieude>76</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Da cóc mà bọc bột lọc</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Bột lọc mà bọc hòn than.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>76</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>77</Id>
+    <tieude>77</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Những đàn chim ngói</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Mặc áo màu nâu</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Đeo cườm ở cổ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Chân đất hồng hồng</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>5</dong>
+        <noidung>như nung qua lửa</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>77</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>78</Id>
+    <tieude>78</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Con gì mào đỏ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Lông mượt như tơ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Sáng sớm tinh mơ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Gọi người thức dậy?</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>78</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>79</Id>
+    <tieude>79</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Mái nhà của ốc</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Tròn vo bên mình</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Mái nhà của em</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Nghiêng giàn gấc đỏ.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>79</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>80</Id>
+    <tieude>80</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Quê hương là con diều biếc</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Chiều chiều con thả trên đồng</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Quê hương là con đò nhỏ</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Êm đềm khua nước ven sông.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>80</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>81</Id>
+    <tieude>81</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Mẹ, mẹ ơi cô dạy</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Phải giữ sạch đôi tay</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Bàn tay mà dây bẩn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Sách, áo cũng bẩn ngay.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>81</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>82</Id>
+    <tieude>82</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Tôi là chim chích</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Nhà ở cành chanh</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Tìm sâu tôi bắt</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Cho chanh quả nhiều</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>5</dong>
+        <noidung>Ri rích, ri rích</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>6</dong>
+        <noidung>Có ích, có ích.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>82</thutu>
+  </BaiHoc>
+  <BaiHoc>
+    <Id>83</Id>
+    <tieude>83</tieude>
+    <baihoc>
+      <Noidung>
+        <dong>1</dong>
+        <noidung>Đi đến nơi nào</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>2</dong>
+        <noidung>Lời chào đi trước</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>3</dong>
+        <noidung>Lời chào dẫn bước</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>4</dong>
+        <noidung>Chắng sợ lạc nhà</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>5</dong>
+        <noidung>Lời chào kết bạn</noidung>
+      </Noidung>
+      <Noidung>
+        <dong>6</dong>
+        <noidung>Con đường bớt xa.</noidung>
+      </Noidung>
+    </baihoc>
+    <thutu>83</thutu>
+  </BaiHoc>
+</ArrayOfBaiHoc>
